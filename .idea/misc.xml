@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/timescheduling/app/src/main/res/drawable/bottomsheet_shape.xml" value="0.16148648648648647" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/drawable/bottomsubmit.xml" value="0.16385135135135134" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/drawable/custom_button.xml" value="0.16385135135135134" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/drawable/edit_text.xml" value="0.16385135135135134" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/drawable/edittext.xml" value="0.16385135135135134" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_ar.xml" value="0.10177595628415301" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_leclogin.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_lecregform.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_lectimetable.xml" value="0.15337837837837837" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_lecture.xml" value="0.10400000000000001" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_non_acadamic_time_table_over_view.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_nonacedmic.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_nonactimetable.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_nonlogin.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_nonregform.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_special_not.xml" value="0.10177595628415301" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_stdlogin.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_stdregform.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_stdtimetable.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_student.xml" value="0.10400000000000001" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_time_table_over_view.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/activity_time_table_update.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/bottom_ar.xml" value="0.14617486338797814" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/bottom_layout.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/layout.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/message_layout.xml" value="0.15337837837837837" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/nonacbottom.xml" value="0.1" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/stdbottom.xml" value="0.2" />
+        <entry key="..\:/Project/timescheduling/app/src/main/res/layout/stdregbottom.xml" value="0.1" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/activity_ar.xml" value="0.1358108108108108" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/activity_main.xml" value="0.1358108108108108" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/activity_non_acadamic_time_table_over_view.xml" value="0.1358108108108108" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/activity_nonacedmic.xml" value="0.1358108108108108" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/activity_nondays.xml" value="0.15" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/activity_special_not.xml" value="0.15" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/activity_stdlogin.xml" value="0.1358108108108108" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/activity_stdregform.xml" value="0.12" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/activity_stdtimetable.xml" value="0.1" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/activity_time_table_over_view.xml" value="0.22" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/activity_time_table_update.xml" value="0.13" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/bottom_ar.xml" value="0.1358108108108108" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/creat_time_table.xml" value="0.1358108108108108" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/layout.xml" value="0.1358108108108108" />
+        <entry key="..\:/timescheduling/app/src/main/res/layout/message_layout.xml" value="0.1358108108108108" />
+        <entry key="..\:/timescheduling/app/src/main/res/menu/menu.xml" value="0.1358108108108108" />
+        <entry key="..\:/timescheduling/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.107" />
+        <entry key="..\:/timescheduling/timescheduling/app/src/main/res/drawable/spinner.xml" value="0.161" />
+        <entry key="..\:/timescheduling/timescheduling/app/src/main/res/layout/activity_ar.xml" value="0.15337837837837837" />
+        <entry key="..\:/timescheduling/timescheduling/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/timescheduling/timescheduling/app/src/main/res/layout/activity_non_acadamic_time_table_over_view.xml" value="0.15337837837837837" />
+        <entry key="..\:/timescheduling/timescheduling/app/src/main/res/layout/activity_stdlogin.xml" value="0.15337837837837837" />
+        <entry key="..\:/timescheduling/timescheduling/app/src/main/res/layout/activity_time_table_update.xml" value="0.15337837837837837" />
+        <entry key="..\:/timescheduling/timescheduling/app/src/main/res/layout/creat_time_table.xml" value="0.15337837837837837" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

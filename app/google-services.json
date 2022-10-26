@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50822619341",
+    "firebase_url": "https://timescheduling-adfa6.firebaseio.com",
+    "project_id": "timescheduling-adfa6",
+    "storage_bucket": "timescheduling-adfa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50822619341:android:34d17b69b10348a4570984",
+        "android_client_info": {
+          "package_name": "com.example.timescheduling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50822619341-sjicgs6reuqlv3dclgb6mhqegb1a6s2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timescheduling",
+            "certificate_hash": "11c9ab440ddc5e69662bc30c317fbe60e49c6994"
+          }
+        },
+        {
+          "client_id": "50822619341-cq4nr8857734kso60gbs26v2b4jbgpe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFCcLU4G1Vfo97PAvh-wvPw1omR7hfRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50822619341-cq4nr8857734kso60gbs26v2b4jbgpe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

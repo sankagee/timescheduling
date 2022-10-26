@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Lecture Time Rescheduler</string>
+    <string name="button">Button</string>
+    <string name="lectures">Lectures</string>
+    <string name="student">Student</string>
+    <string name="textview">TextView</string>
+    <string name="check_your_bank_activities" />
+    <string name="itt" />
+    <string name="special_notice">Special Notice</string>
+    <string name="add_lectures">Add Lectures</string>
+    <string name="todo">TODO</string>
+    <string name="time_table_view">Time Table View</string>
+    <string name="hint_name">Reg no</string>
+
+    <string name="text_register">Register</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="button2">Button</string>
+    <string-array name="roll">
+        <item>Your Roll</item>
+        <item>Student</item>
+        <item>Lecturer</item>
+    </string-array>
+    <string-array name="Track">
+        <item>Your Track</item>
+        <item>Developer</item>
+        <item>Admin</item>
+        <item>1st_year</item>
+    </string-array>
+    <string-array name="place">
+        <item>Place</item>
+        <item>L1</item>
+        <item>L2</item>
+        <item>L3</item>
+        <item>ICT LAB</item>
+        <item>ICT LAB2</item>
+        <item>ICT LAB3</item>
+        <item>ICT LAB4</item>
+    </string-array>
+
+    <string-array name="bach">
+        <item>Select batch</item>
+        <item>AdminF2019</item>
+        <item>DeveloperF2019</item>
+        <item>1st_yearF2020</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>Select day</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+</resources>
